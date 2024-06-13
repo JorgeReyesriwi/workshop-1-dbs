@@ -1,0 +1,19 @@
+Grupo 1: Uno a Uno (1:1)
+
+ *   Entidades: Estudiante y Registro de Salud.
+ *   Relación: Cada estudiante tiene exactamente un registro de salud y cada registro de salud pertenece a un único estudiante.
+
+Grupo 2: Uno a Muchos (1)
+
+ *   Entidades: Profesor y Estudiante.
+ *   Relación: Un profesor puede tener muchos estudiantes en su clase, pero cada estudiante solo tiene un profesor por clase.
+
+Grupo 3: Muchos a Uno (N:1)
+
+ *   Entidades: Curso y Profesor.
+ *   Relación: Muchos cursos pueden ser impartidos por un solo profesor, pero cada curso solo tiene un profesor.
+
+Grupo 4: Muchos a Muchos (M:N)
+
+ *   Entidades: Estudiante y Club.
+ *   Relación: Un estudiante puede ser miembro de varios clubes, y un club puede tener varios estudiantes como miembros.
